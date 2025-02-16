@@ -1,0 +1,22 @@
+# Ignore system files and folders
+AppData/
+Documents/
+Downloads/
+Favorites/
+OneDrive/
+NTUSER.DAT
+.ntuser*
+*.log
+*.bak
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# Ignore Docker files
+docker/
+
+# Ignore other unnecessary files
+*.pyc
+__pycache__/
